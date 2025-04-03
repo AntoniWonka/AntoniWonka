@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Antoni, I'm an [UvA](https://www.uva.nl/en/programmes/bachelors/business-analytics/business-analytics.html) Business Analytics student passionate about driving innovation in Finance through Data Science and emerging technologies!
+My name is Antoni, I'm a [UvA](https://www.uva.nl/en/programmes/bachelors/business-analytics/business-analytics.html) Business Analytics student passionate about driving innovation in Finance through Data Science and emerging technologies!
 
 - 🔭 I’m currently developing an LLM-powered tool for extracting carbon emissions data for [ING](https://www.ing.com/Sustainability.htm)
 - 🌱 I’m currently learning about how to develop advanced financial models for assessing risks and returns across various asset classes and options
